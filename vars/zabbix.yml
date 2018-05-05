@@ -16,6 +16,8 @@ sign_keys:
       sign_key: 79EA5ED4
     xenial:
       sign_key: E709712C
+    bionic:
+      sign_key: E709712C
   "32":
     sonya:
       sign_key: 79EA5ED4
@@ -31,6 +33,9 @@ sign_keys:
       sign_key: 79EA5ED4
     xenial:
       sign_key: E709712C
+    bionic:
+      sign_key: E709712C
+
   "30":
     wheezy:
       sign_key: 79EA5ED4
@@ -41,6 +46,8 @@ sign_keys:
     trusty:
       sign_key: 79EA5ED4
     xenial:
+      sign_key: E709712C
+    bionic:
       sign_key: E709712C
   "24":
     wheezy:
